@@ -1,1 +1,13 @@
 # CS440-Term-Project
+
+### Project Description
+
+In today’s modern world, staying updated on technological advancements has become a necessity for businesses to satisfy their customers, achieve desired business goals, and most importantly outsmart the competition. In recent years, the financial sector has seen a rapid acceleration in the use of Artificial Intelligence (AI) and Machine Learning (ML) due to improved software and hardware. This has led to better outcomes for both consumers and businesses. Hedge funds were the primary users of AI and ML in financial services, but in the last few years, the spread of ML applications was seen in banks, insurance firms, and other financial institutions, to name a few. But the most steadfast and steep increase has been seen in the stock markets. AI and ML are shaping the future of stock markets. Using different techniques and deep learning algorithms, it analyzes millions of data points, predicts forecast markets with better accuracy, and as a result, there is a higher probability for higher profits and returns. 
+
+The prediction of the volatile and unpredictable stock market has been challenging in recent years, since there are so many factors to take into consideration, such as economic factors, interest rate changes, and fiscal policy. While humans remain a large part of the trading, the stock market has become more efficient and accurate because of the recent developments in AI and ML. These techniques have made it easier for beginners to invest in the stock market. AI and ML also use pattern recognition and help gather unbiased information which leads to better predictions for traders and investors. 
+
+The goal of this project is to train stock market datasets using different AI and ML algorithms such as Neural Networks, k-Nearest Neighbors (kNN), and Logistic Regression and try to find the best predictions. We aim to get results using the above three algorithms and see which ones best predict the outcomes of the stock market. The goal is to see which algorithm more accurately and efficiently predicts the stock market. The benefits of using these algorithms to predict outcomes are that it extracts noise and leaves out as much signal as possible and time complexity is less, hence results are available faster. 
+
+### Data Description
+
+This dataset includes the historical daily prices and volume information for US stocks and ETFs trading on NASDAQ, NYSE, and NYSE MKT. We do not believe using stock open and close prices and volume will be enough to predict accurately. We will need to use other ‘technical’ data like RSI which represents the relative strength of a stock and other indicators along with the open and close price.
